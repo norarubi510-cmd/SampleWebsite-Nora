@@ -1103,5 +1103,171 @@ footer {
     }
 }
 
+@media (max-width: 963px) {
+  /* Show burger menu, hide nav links */
+  .btn_menu {
+    display: block;
+  }
+  
+  .nav_links {
+    display: none;
+  }
+
+  /* Center footer newsletter section */
+  .footer_newsletter--title,
+  .footer_newsletter--text {
+    left: 0;
+    position: static;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .footer_newsletter--form {
+    left: 0;
+    position: static;
+    margin: 0 auto 24px;
+    max-width: 480px;
+  }
+}
+
+ 
+@media (max-width: 1085px) {
+   /* Make start section buttons smaller */
+  .start_row {
+    padding: 60px 40px;
+  }
+
+  .start_title {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .start_buttons {
+    flex-direction: column;
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .start_buttons .btn {
+    padding: 10px 24px;
+    font-size: 13px;
+    width: 100%;
+  }
+
+
+
+  /* Additional footer centering fixes */
+  .footer_logo--img {
+    left: 0;
+    position: static;
+    margin: 0 auto 16px;
+    display: block;
+  }
+
+  .footer_socials {
+    right: 0;
+    position: static;
+    justify-content: center;
+    gap: 40px;
+  }
+
+  /* Adjust footer padding */
+  footer {
+    padding: 60px 32px;
+  }
+
+   /* Additional footer centering fixes */
+  .footer_logo--img {
+    left: 0;
+    position: static;
+    margin: 0 auto 16px;
+    display: block;
+    width: 200px;
+  }
+
+  .footer_socials {
+    right: 0;
+    position: static;
+    justify-content: center;
+    gap: 40px;
+    font-size: 24px;
+  }
+
+  /* Adjust footer padding */
+  footer {
+    padding: 60px 32px;
+    font-size: 16px;
+  }
+
+  /* Reduce footer column sizes */
+  .footer_columns {
+    gap: 32px;
+    justify-content: center;
+  }
+
+  .footer_column--title {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+
+  .footer_column--link {
+    gap: 24px;
+    font-size: 14px;
+  }
+
+  /* Make newsletter elements responsive */
+  .footer_newsletter--title {
+    font-size: 18px;
+    margin-bottom: 12px;
+    left: 14px;
+  }
+
+  .footer_newsletter--text {
+    font-size: 14px;
+    margin-bottom: 20px;
+    padding: 0 16px;
+    left: 14px;
+  }
+
+  .footer_newsletter--form {
+    max-width: 90%;
+    padding: 0 16px;
+    left: 14px;
+  }
+
+  .footer_newsletter--input {
+    padding: 19px;
+    font-size: 14px;
+    margin-right: 12px;
+    left: 14px;
+  }
+
+  .footer_newsletter--btn {
+    padding: 12px 22px;
+    font-size: 14px;
+    right: 35px;
+    
+  }
+}
+
+/* Media Query for 962px - Keep Newsletter Button Inside Input */
+@media (max-width: 959px) {
+  .footer_newsletter--form {
+    max-width: 95%;
+    padding: 0 16px;
+  }
+
+  .footer_newsletter--input {
+    padding: 16px 140px 16px 20px; /* Extra right padding for button */
+    font-size: 15px;
+  }
+
+  .footer_newsletter--btn {
+    padding: 10px 18px;
+    font-size: 13px;
+    position: relative;
+  }
+}
+
 
 
