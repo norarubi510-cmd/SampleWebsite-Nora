@@ -1271,5 +1271,1173 @@ footer {
   }
 }
 
+/* Media Query for 344px */
+@media (max-width: 344px) {
+  /* Navigation */
+  nav {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .nav_container {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  /* Header */
+  header {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  /* All Sections */
+  #features,
+  #quality,
+  #steps,
+  #values,
+  #pricing,
+  #testimonials,
+  #start {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  /* Container and Row */
+  .container {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .row {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .row_narrow {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  /* Footer */
+  footer {
+    padding: 40px 12px;
+    font-size: 14px;
+  }
+
+  .footer_row {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .footer_columns {
+    flex-direction: column;
+    gap: 32px;
+    width: 100%;
+  }
+
+  .footer_column {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer_column--title {
+    font-size: 16px;
+    margin-bottom: 12px;
+  }
+
+  .footer_column--link {
+    font-size: 13px;
+    gap: 16px;
+    flex-direction: column;
+  }
+
+  .footer_newsletter--title {
+    font-size: 16px;
+    left: 0;
+    position: static;
+    margin: 0 auto 12px;
+  }
+
+  .footer_newsletter--text {
+    font-size: 13px;
+    left: 0;
+    position: static;
+    margin: 0 auto 16px;
+    padding: 0 8px;
+  }
+
+  .footer_newsletter--form {
+    left: 0;
+    position: static;
+    max-width: 100%;
+    padding: 0 8px;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .footer_newsletter--input {
+    width: 100%;
+    padding: 14px 16px;
+    font-size: 13px;
+    margin-right: 0;
+  }
+
+  .footer_newsletter--btn {
+    position: static;
+    width: 100%;
+    padding: 14px 20px;
+    font-size: 13px;
+    transform: none;
+  }
+
+  .footer_socials {
+    gap: 30px;
+    font-size: 20px;
+    right: 0;
+    position: static;
+  }
+
+  .footer_logo--img {
+    width: 180px;
+    left: 0;
+    position: static;
+    margin: 0 auto 16px;
+  }
+
+  .footer_copyright {
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .footer_bottom {
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+  }
+}
+
+
+
+/* Media Query for 360px */
+@media (max-width: 360px) {
+  /* Navigation */
+  nav {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .nav_container {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  /* Header */
+  header {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  /* All Sections */
+  #features,
+  #quality,
+  #steps,
+  #values,
+  #pricing,
+  #testimonials,
+  #start {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  /* Container and Row */
+  .container {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .row {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .row_narrow {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  /* Footer */
+  footer {
+    padding: 42px 14px;
+    font-size: 14px;
+  }
+
+  .footer_row {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .footer_columns {
+    flex-direction: column;
+    gap: 32px;
+    width: 100%;
+  }
+
+  .footer_column {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer_column--title {
+    font-size: 16px;
+    margin-bottom: 14px;
+  }
+
+  .footer_column--link {
+    font-size: 13px;
+    gap: 16px;
+    flex-direction: column;
+  }
+
+  .footer_newsletter--title {
+    font-size: 16px;
+    left: 0;
+    position: static;
+    margin: 0 auto 12px;
+  }
+
+  .footer_newsletter--text {
+    font-size: 13px;
+    left: 0;
+    position: static;
+    margin: 0 auto 16px;
+    padding: 0 10px;
+  }
+
+  .footer_newsletter--form {
+    left: 0;
+    position: static;
+    max-width: 100%;
+    padding: 0 10px;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .footer_newsletter--input {
+    width: 100%;
+    padding: 14px 18px;
+    font-size: 14px;
+    margin-right: 0;
+  }
+
+  .footer_newsletter--btn {
+    position: static;
+    width: 100%;
+    padding: 14px 22px;
+    font-size: 14px;
+    transform: none;
+  }
+
+  .footer_socials {
+    gap: 32px;
+    font-size: 21px;
+    right: 0;
+    position: static;
+  }
+
+  .footer_logo--img {
+    width: 190px;
+    left: 0;
+    position: static;
+    margin: 0 auto 16px;
+  }
+
+  .footer_copyright {
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .footer_bottom {
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+  }
+}
+
+/* Media Query for 375px */
+@media (max-width: 375px) {
+  /* Navigation */
+  nav {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .nav_container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  /* Header */
+  header {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  /* All Sections */
+  #features,
+  #quality,
+  #steps,
+  #values,
+  #pricing,
+  #testimonials,
+  #start {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  /* Container and Row */
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .row {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .row_narrow {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  /* Footer */
+  footer {
+    padding: 44px 16px;
+    font-size: 14px;
+  }
+
+  .footer_row {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .footer_columns {
+    flex-direction: column;
+    gap: 34px;
+    width: 100%;
+  }
+
+  .footer_column {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer_column--title {
+    font-size: 17px;
+    margin-bottom: 14px;
+  }
+
+  .footer_column--link {
+    font-size: 14px;
+    gap: 18px;
+    flex-direction: column;
+  }
+
+  .footer_newsletter--title {
+    font-size: 17px;
+    left: 0;
+    position: static;
+    margin: 0 auto 14px;
+  }
+
+  .footer_newsletter--text {
+    font-size: 14px;
+    left: 0;
+    position: static;
+    margin: 0 auto 18px;
+    padding: 0 12px;
+  }
+
+  .footer_newsletter--form {
+    left: 0;
+    position: static;
+    max-width: 100%;
+    padding: 0 12px;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .footer_newsletter--input {
+    width: 100%;
+    padding: 15px 18px;
+    font-size: 14px;
+    margin-right: 0;
+  }
+
+  .footer_newsletter--btn {
+    position: static;
+    width: 100%;
+    padding: 15px 24px;
+    font-size: 14px;
+    transform: none;
+  }
+
+  .footer_socials {
+    gap: 34px;
+    font-size: 22px;
+    right: 0;
+    position: static;
+  }
+
+  .footer_logo--img {
+    width: 200px;
+    left: 0;
+    position: static;
+    margin: 0 auto 18px;
+  }
+
+  .footer_copyright {
+    font-size: 13px;
+    text-align: center;
+  }
+
+  .footer_bottom {
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+  }
+}
+
+/* Media Query for 390px */
+@media (max-width: 390px) {
+  /* Navigation */
+  nav {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .nav_container {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  /* Header */
+  header {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  /* All Sections */
+  #features,
+  #quality,
+  #steps,
+  #values,
+  #pricing,
+  #testimonials,
+  #start {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  /* Container and Row */
+  .container {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .row {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .row_narrow {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  /* Footer */
+  footer {
+    padding: 46px 18px;
+    font-size: 15px;
+  }
+
+  .footer_row {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .footer_columns {
+    flex-direction: column;
+    gap: 36px;
+    width: 100%;
+  }
+
+  .footer_column {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer_column--title {
+    font-size: 17px;
+    margin-bottom: 15px;
+  }
+
+  .footer_column--link {
+    font-size: 14px;
+    gap: 18px;
+    flex-direction: column;
+  }
+
+  .footer_newsletter--title {
+    font-size: 17px;
+    left: 0;
+    position: static;
+    margin: 0 auto 14px;
+  }
+
+  .footer_newsletter--text {
+    font-size: 14px;
+    left: 0;
+    position: static;
+    margin: 0 auto 18px;
+    padding: 0 14px;
+  }
+
+  .footer_newsletter--form {
+    left: 0;
+    position: static;
+    max-width: 100%;
+    padding: 0 14px;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .footer_newsletter--input {
+    width: 100%;
+    padding: 16px 20px;
+    font-size: 14px;
+    margin-right: 0;
+  }
+
+  .footer_newsletter--btn {
+    position: static;
+    width: 100%;
+    padding: 16px 26px;
+    font-size: 14px;
+    transform: none;
+  }
+
+  .footer_socials {
+    gap: 36px;
+    font-size: 23px;
+    right: 0;
+    position: static;
+  }
+
+  .footer_logo--img {
+    width: 210px;
+    left: 0;
+    position: static;
+    margin: 0 auto 18px;
+  }
+
+  .footer_copyright {
+    font-size: 13px;
+    text-align: center;
+  }
+
+  .footer_bottom {
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+  }
+}
+
+
+/* Media Query for 412px */
+@media (max-width: 412px) {
+  /* Navigation */
+  nav {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .nav_container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* Header */
+  header {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* All Sections */
+  #features,
+  #quality,
+  #steps,
+  #values,
+  #pricing,
+  #testimonials,
+  #start {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* Container and Row */
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .row {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .row_narrow {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* Footer */
+  footer {
+    padding: 48px 20px;
+    font-size: 15px;
+  }
+
+  .footer_row {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .footer_columns {
+    flex-direction: column;
+    gap: 38px;
+    width: 100%;
+  }
+
+  .footer_column {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer_column--title {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+
+  .footer_column--link {
+    font-size: 14px;
+    gap: 20px;
+    flex-direction: column;
+  }
+
+  .footer_newsletter--title {
+    font-size: 18px;
+    left: 0;
+    position: static;
+    margin: 0 auto 16px;
+  }
+
+  .footer_newsletter--text {
+    font-size: 14px;
+    left: 0;
+    position: static;
+    margin: 0 auto 20px;
+    padding: 0 16px;
+  }
+
+  .footer_newsletter--form {
+    left: 0;
+    position: static;
+    max-width: 100%;
+    padding: 0 16px;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .footer_newsletter--input {
+    width: 100%;
+    padding: 16px 20px;
+    font-size: 15px;
+    margin-right: 0;
+  }
+
+  .footer_newsletter--btn {
+    position: static;
+    width: 100%;
+    padding: 16px 28px;
+    font-size: 15px;
+    transform: none;
+  }
+
+  .footer_socials {
+    gap: 38px;
+    font-size: 24px;
+    right: 0;
+    position: static;
+  }
+
+  .footer_logo--img {
+    width: 220px;
+    left: 0;
+    position: static;
+    margin: 0 auto 20px;
+  }
+
+  .footer_copyright {
+    font-size: 13px;
+    text-align: center;
+  }
+
+  .footer_bottom {
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
+}
+
+
+/* Media Query for 414px */
+@media (max-width: 414px) {
+  /* Navigation */
+  nav {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .nav_container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* Header */
+  header {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* All Sections */
+  #features,
+  #quality,
+  #steps,
+  #values,
+  #pricing,
+  #testimonials,
+  #start {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* Container and Row */
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .row {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .row_narrow {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* Footer */
+  footer {
+    padding: 48px 20px;
+    font-size: 15px;
+  }
+
+  .footer_row {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .footer_columns {
+    flex-direction: column;
+    gap: 38px;
+    width: 100%;
+  }
+
+  .footer_column {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer_column--title {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+
+  .footer_column--link {
+    font-size: 14px;
+    gap: 20px;
+    flex-direction: column;
+  }
+
+  .footer_newsletter--title {
+    font-size: 18px;
+    left: 0;
+    position: static;
+    margin: 0 auto 16px;
+  }
+
+  .footer_newsletter--text {
+    font-size: 14px;
+    left: 0;
+    position: static;
+    margin: 0 auto 20px;
+    padding: 0 16px;
+  }
+
+  .footer_newsletter--form {
+    left: 0;
+    position: static;
+    max-width: 100%;
+    padding: 0 16px;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .footer_newsletter--input {
+    width: 100%;
+    padding: 16px 20px;
+    font-size: 15px;
+    margin-right: 0;
+  }
+
+  .footer_newsletter--btn {
+    position: static;
+    width: 100%;
+    padding: 16px 28px;
+    font-size: 15px;
+    transform: none;
+  }
+
+  .footer_socials {
+    gap: 38px;
+    font-size: 24px;
+    right: 0;
+    position: static;
+  }
+
+  .footer_logo--img {
+    width: 220px;
+    left: 0;
+    position: static;
+    margin: 0 auto 20px;
+  }
+
+  .footer_copyright {
+    font-size: 13px;
+    text-align: center;
+  }
+
+  .footer_bottom {
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
+}
+
+
+/* Media Query for 430px */
+@media (max-width: 430px) {
+  /* Navigation */
+  nav {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  .nav_container {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  /* Header */
+  header {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  /* All Sections */
+  #features,
+  #quality,
+  #steps,
+  #values,
+  #pricing,
+  #testimonials,
+  #start {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  /* Container and Row */
+  .container {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  .row {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  .row_narrow {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  /* Footer */
+  footer {
+    padding: 50px 22px;
+    font-size: 15px;
+  }
+
+  .footer_row {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  .footer_columns {
+    flex-direction: column;
+    gap: 40px;
+    width: 100%;
+  }
+
+  .footer_column {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer_column--title {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+
+  .footer_column--link {
+    font-size: 15px;
+    gap: 20px;
+    flex-direction: column;
+  }
+
+  .footer_newsletter--title {
+    font-size: 18px;
+    left: 0;
+    position: static;
+    margin: 0 auto 16px;
+  }
+
+  .footer_newsletter--text {
+    font-size: 15px;
+    left: 0;
+    position: static;
+    margin: 0 auto 20px;
+    padding: 0 18px;
+  }
+
+  .footer_newsletter--form {
+    left: 0;
+    position: static;
+    max-width: 100%;
+    padding: 0 18px;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .footer_newsletter--input {
+    width: 100%;
+    padding: 17px 22px;
+    font-size: 15px;
+    margin-right: 0;
+  }
+
+  .footer_newsletter--btn {
+    position: static;
+    width: 100%;
+    padding: 17px 30px;
+    font-size: 15px;
+    transform: none;
+  }
+
+  .footer_socials {
+    gap: 40px;
+    font-size: 25px;
+    right: 0;
+    position: static;
+  }
+
+  .footer_logo--img {
+    width: 230px;
+    left: 0;
+    position: static;
+    margin: 0 auto 20px;
+  }
+
+  .footer_copyright {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .footer_bottom {
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
+}
+
+
+/* Media Query for 540px */
+@media (max-width: 540px) {
+  /* Navigation */
+  nav {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .nav_container {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  /* Header */
+  header {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  /* All Sections */
+  #features,
+  #quality,
+  #steps,
+  #values,
+  #pricing,
+  #testimonials,
+  #start {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  /* Container and Row */
+  .container {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .row {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .row_narrow {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  /* Footer */
+  footer {
+    padding: 52px 24px;
+    font-size: 16px;
+  }
+
+  .footer_row {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .footer_columns {
+    flex-direction: column;
+    gap: 42px;
+    width: 100%;
+  }
+
+  .footer_column {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer_column--title {
+    font-size: 18px;
+    margin-bottom: 18px;
+  }
+
+  .footer_column--link {
+    font-size: 15px;
+    gap: 22px;
+    flex-direction: column;
+  }
+
+  .footer_newsletter--title {
+    font-size: 18px;
+    left: 0;
+    position: static;
+    margin: 0 auto 18px;
+  }
+
+  .footer_newsletter--text {
+    font-size: 15px;
+    left: 0;
+    position: static;
+    margin: 0 auto 22px;
+    padding: 0 20px;
+  }
+
+  .footer_newsletter--form {
+    left: 0;
+    position: static;
+    max-width: 100%;
+    padding: 0 20px;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .footer_newsletter--input {
+    width: 100%;
+    padding: 18px 24px;
+    font-size: 15px;
+    margin-right: 0;
+  }
+
+  .footer_newsletter--btn {
+    position: static;
+    width: 100%;
+    padding: 18px 32px;
+    font-size: 15px;
+    transform: none;
+  }
+
+  .footer_socials {
+    gap: 42px;
+    font-size: 26px;
+    right: 0;
+    position: static;
+  }
+
+  .footer_logo--img {
+    width: 240px;
+    left: 0;
+    position: static;
+    margin: 0 auto 22px;
+  }
+
+  .footer_copyright {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .footer_bottom {
+    flex-direction: column;
+    gap: 22px;
+    align-items: center;
+  }
+}
+
+
+
 
 
