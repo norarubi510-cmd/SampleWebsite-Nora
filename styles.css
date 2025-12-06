@@ -1133,7 +1133,22 @@ footer {
  
 @media (max-width: 1085px) {
    /* Make start section buttons smaller */
-  .start_row {
+  header {
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+  }
+
+  #landing header {
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+  }
+
+  .header_img--wrapper {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+  
+   .start_row {
     padding: 60px 40px;
   }
 
